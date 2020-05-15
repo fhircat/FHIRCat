@@ -1,0 +1,34 @@
+name: Build-and-test
+
+# This workflow demonstrates Github Actions.  They can be used to
+# automatically run builds and test when code is checked in, or on
+# other events.
+# https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
+
+# A badge (image) shows whether this workflow last passed or failed:
+# https://github.com/fhircat/FHIRCat/workflows/Build-and-test/badge.svg
+# The badge should be put on the README.md of the repo home page.
+
+
+# This workflow will be triggered by a push to master.
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build-and-run:
+    name: Build and run
+
+    runs-on: ubuntu-16.04
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build Code
+        run: echo Hello at `date` from `pwd`
+      - name: Multi-line script
+        run: |
+          echo First line
+          echo Second line
+          # Non-zero exit status would indicate failure:
+          # exit 1
+
