@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/fhircat/FHIRCat.github.io/workflows/Build-and-test/badge.svg">
+
 # FHIRCat - Enabling the Semantics of FHIR and Terminologies for Clinical and Translational Research 
 
 ## Specific Aims
