@@ -30,6 +30,6 @@ jobs:
           echo First line
           echo Second line
           # Non-zero exit status would indicate failure:
-          # exit 1
+          exit 1
 
 
