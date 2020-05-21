@@ -1,5 +1,5 @@
 <!-- Github Actions are defined in the .github/workflows subdirectory.  -->
-<a href="https://github.com/fhircat/FHIRCat/actions"><img align="right" src="https://github.com/fhircat/FHIRCat/workflows/Build-and-test/badge.svg"></a>
+<a href="https://github.com/fhircat/FHIRCat/actions"><img align="right" src="https://github.com/fhircat/FHIRCat/workflows/greet/badge.svg"></a>
 
 # FHIRCat - Enabling the Semantics of FHIR and Terminologies for Clinical and Translational Research 
 
