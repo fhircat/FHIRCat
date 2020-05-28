@@ -1,0 +1,9 @@
+on: issue_comment
+
+jobs:
+  octocat:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: ethomson/mona-action@master
+      env:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
