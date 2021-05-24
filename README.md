@@ -7,9 +7,11 @@
 
 The objective of this project is to design, develop and evaluate a novel informatics platform known as **FHIRCat** that leverages Semantic Web and Linked Data technologies, FHIR models/profiles, and ontologies for effective standards-based data integration and distributed analytics, enabling high-quality reproducible clinical and translational research. Our specific aims are:
 
-**Aim 1: Develop FHIR ShEx/RDF specification and tools for FHIR data validation.** We will (a) develop the FHIR RDF stack to represent the core FHIR model, the FHIR constraint language, the FHIR extension model, and the FHIR "slicing" language in ShEx, a concise, human-readable, computable constraint language; (b) incorporate the ShEx/RDF specification as a normative part of the FHIR specification; and (c) publish, disseminate, and promote the RDF technology and associated tools throughout the wider FHIR community, with the goal of broad availability and utility of semantic clinical information. 
+**Aim 1: Develop FHIR ShEx/RDF specification and tools for FHIR data validation.
+**Aim 2: Standardize and deploy the RDF-based data transformation between external models and FHIR.
+**Aim 3: Build and evaluate a FHIR ontology-based data access (OBDA) system interoperable with clinical data repositories across institutions in partnership with the CTSA National Center for Data to Health (CD2H).
 
 
-This work is supported by funding from NIH BD2K (U01 HG009450) and FHIRCat (R56 EB028101).
+This work is supported by funding from NIH BD2K (U01 HG009450) and FHIRCat (R56 EB028101, R01 EB030529).
 
 For more information, contact Guoqian Jiang <jiang.guoqian@mayo.edu> and Harold Solbrig <solbrig@jhu.edu>.
