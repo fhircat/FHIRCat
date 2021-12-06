@@ -1,0 +1,7 @@
+{
+   "input"  : "/opt/fhircat/Patient.json",
+   "output" : "/opt/fhircat/OUTPUT/",
+   "jsonld" : "false",
+   "rdf"    : "true",
+   "format" : "application/n-quads"
+}
