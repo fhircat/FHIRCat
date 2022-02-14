@@ -20,6 +20,7 @@ For more information, contact Guoqian Jiang <jiang.guoqian@mayo.edu> and Emily P
 
 |Title|Type|Location|
 |---|---|---|
+|[Developing an ETL tool for converting the PCORnet CDM into the OMOP CDM to facilitate the COVID-19 data integration](https://pubmed.ncbi.nlm.nih.gov/35077901/)|Publication|J Biomed Inform. 2022 Jan 22;127:104002.doi: 10.1016/j.jbi.2022.104002.|
 |Eric Prud'hommeaux1,2, Deepark K. Sharma3, David Booth4, Daniel J. Stone3, Nansu Zong3, Yue Yu3, Guohui Xiao5, Harold R. Solbrig6, Christopher G. Chute6, Kathryn J. Ruddy3, Emily Pfaff7, Guoqian Jiang3. Consistency Check of the FHIR W5 Classification System in FHIR Modeling: Towards Improved Semantic Representation of FHIR RDF|Podium Abstract|AMIA 2022 Informatics Summit Oral Presentations|
 |[Deepak Sharma, Eric Prud’hommeaux, David Booth, Kevin Peterson, Daniel Stone, Harold Solbrig, Guohui Xiao, Emily Pfaff and Guoqian Jiang, Implementing a New FHIR RDF Specification for Semantic Clinical Data Using a JSON-LD-based Approach](http://www.swat4ls.org/workshops/leiden2022/scientific-programme2022/)|Publication|SWAT4HCLS, 2022|
 |[Harold Solbrig, Guohui Xiao, Eric Prud’Hommeaux. FHIR RDF Data Transformation and Validation Framework and Clinical Knowledge Graphs: Towards Explainable AI in Healthcare](http://www.swat4ls.org/workshops/leiden2022/scientific-programme2022/tutorials/)|Tutorial|SWAT4HCLS, 2022|
